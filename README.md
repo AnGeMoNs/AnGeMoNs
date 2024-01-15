@@ -13,6 +13,7 @@
 
 <h3 align="left">Technologies:</h3>
 <img alt="Static Badge" src="https://img.shields.io/badge/React-2333?style=plastic&logo=react&labelColor=256E8E&color=33FFF6">
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-2333?style=plastic&logo=javascript&logoColor=%23E1D32B&labelColor=256E8E&color=%23E1D32B">
 
 
 
