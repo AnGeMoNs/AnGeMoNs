@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/HTML5-2333?style=plastic&logo=html5&logoColor=%23E34F26&labelColor=%23FFFFFF&color=%23E34F26">
   <img src="https://img.shields.io/badge/NodeJs-2333?style=plastic&logo=nodedotjs&logoColor=%23339933&labelColor=%23000000&color=%23339933">
   <img src="https://img.shields.io/badge/MySQL-2333?style=plastic&logo=mysql&logoColor=%234479A1&labelColor=%23FFFF&color=%234479A1">
+  <img src="https://img.shields.io/badge/SQLServer-2333?style=plastic&logo=microsoftsqlserver&logoColor=%23CC2927&labelColor=%23FFFF&color=%23CC2927">
 
 
 
