@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![snake gif](https://github.com/AnGeMoNs/AnGeMoNs/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AnGeMoNs/AnGeMoNs/blob/output/github-contribution-grid-snake.svg)
+
 
 <!---
 AnGeMoNs/AnGeMoNs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
