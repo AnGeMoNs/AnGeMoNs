@@ -7,12 +7,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif" alt="Descripción del GIF">
 </div>
-<img alt="Static Badge" src="https://img.shields.io/badge/React-2333?style=plastic&logo=react&labelColor=256E8E&color=33FFF6">
+
 
 
 
 <h3 align="left">Technologies:</h3>
-
+<img alt="Static Badge" src="https://img.shields.io/badge/React-2333?style=plastic&logo=react&labelColor=256E8E&color=33FFF6">
 
 
 
