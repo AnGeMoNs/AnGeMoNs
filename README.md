@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/React-2333?style=plastic&logo=react&labelColor=256E8E&color=33FFF6">
   <img src="https://img.shields.io/badge/JavaScript-2333?style=plastic&logo=javascript&logoColor=%23E1D32B&labelColor=256E8E&color=%23E1D32B">
   <img src="https://img.shields.io/badge/Css3-2333?style=plastic&logo=css3&logoColor=%231572B6&labelColor=%23FFFFFF&color=2B9CE1">
+  <img src="https://img.shields.io/badge/HTML5-2333?style=plastic&logo=html5&logoColor=%23E34F26&labelColor=%23FFFFFF&color=%23E34F26">
+
 
 
 
