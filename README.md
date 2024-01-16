@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angelo</h1>
-<h3 align="center">A passionate Full-Stack developer from Chile</h3>
+<h3 align="center">A Chilean aspiring to be a Full-Stack developer</h3>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
