@@ -31,6 +31,10 @@
   <img alt="github-snake" src="https://github.com/AnGeMoNs/AnGeMoNs/blob/output/github-snake.svg" />
 </picture>
 
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br><br>
+  <img src="https://profile-counter.glitch.me/AnGeMoNs/count.svg" />
+</p>
 
 
 <!---
