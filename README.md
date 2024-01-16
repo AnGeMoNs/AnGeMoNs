@@ -23,8 +23,9 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnGeMoNs&show_icons=true&layout=compact&theme=radical&no-cache=1" alt="Most Used Languages" /></p>
-<br><br><br><br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnGeMoNs&show_icons=true&layout=compact&theme=radical&no-cache=1" alt="Most Used Languages" />
+</div>
 
 
 
